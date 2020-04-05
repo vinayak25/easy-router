@@ -1,0 +1,26 @@
+{
+  "name": "@vinayak2506/easy-router",
+  "version": "0.1.0",
+  "description": "A declarative router for expressjs",
+  "main": "src/index.ks",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinayak25/easy-router.git"
+  },
+  "keywords": [
+    "expressjs",
+    "router",
+    "nodejs"
+  ],
+  "author": "Vinayak Sarawagi (vinayaksarawagi25@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinayak25/easy-router/issues"
+  },
+  "homepage": "https://github.com/vinayak25/easy-router#readme"
+}
