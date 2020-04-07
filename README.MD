@@ -1,6 +1,6 @@
 # Easy Router
 
-![Easy Router Logo] (https://hanalabs-public-assets.s3.ap-south-1.amazonaws.com/easy-router/cover.png)
+![img](https://hanalabs-public-assets.s3.ap-south-1.amazonaws.com/easy-router/cover.png)
 
 A declarative router library for express.js.
 
